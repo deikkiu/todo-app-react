@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.06e0d00d.css",
-    "main.js": "/static/js/main.ce31589b.js",
-    "static/media/bg.jpg": "/static/media/bg.e2c433d11c584d164d07.jpg",
-    "static/media/react.svg": "/static/media/react.b54a1d172606449b4fec0c7b3548c6e4.svg",
-    "static/media/todo.svg": "/static/media/todo.ca91d878b438115523ecc3ebd181e059.svg",
-    "index.html": "/index.html",
-    "main.06e0d00d.css.map": "/static/css/main.06e0d00d.css.map",
-    "main.ce31589b.js.map": "/static/js/main.ce31589b.js.map"
+    "main.css": "/todo-app-react/static/css/main.9ea278e8.css",
+    "main.js": "/todo-app-react/static/js/main.4f9cf5f6.js",
+    "static/media/bg.jpg": "/todo-app-react/static/media/bg.e2c433d11c584d164d07.jpg",
+    "static/media/react.svg": "/todo-app-react/static/media/react.b54a1d172606449b4fec0c7b3548c6e4.svg",
+    "static/media/todo.svg": "/todo-app-react/static/media/todo.ca91d878b438115523ecc3ebd181e059.svg",
+    "index.html": "/todo-app-react/index.html",
+    "main.9ea278e8.css.map": "/todo-app-react/static/css/main.9ea278e8.css.map",
+    "main.4f9cf5f6.js.map": "/todo-app-react/static/js/main.4f9cf5f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.06e0d00d.css",
-    "static/js/main.ce31589b.js"
+    "static/css/main.9ea278e8.css",
+    "static/js/main.4f9cf5f6.js"
   ]
 }
